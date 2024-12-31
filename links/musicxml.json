@@ -1,0 +1,62 @@
+{
+	"format": "library",
+	"metadata": {
+		"name": "Music XML Samples",
+		"type": "collection",
+		"tags": [
+			"musicxml.com",
+			"mxml", "finale", "testing"
+		]
+	},
+	"children": [
+		{
+			"format": "mxml",
+			"metadata": {
+				"name": "Gnossienne No. 3",
+				"composer": "Eric Satie"
+			},
+			"url": "https://smoosic.github.io/Smoosic/release/library/xml/Gnossienne_No._3.mxl"
+		},
+		{
+			"format": "mxml",
+			"metadata": {
+				"name": "Well-Tempered Clavier",
+				"composer": "JS Bach"
+			},
+			"url": "https://smoosic.github.io/Smoosic/release/library/xml/M_Book_1_Part_1_The_Open_Well_Tempered_Clavier.mxl"
+		},
+		{
+			"format": "mxml",
+			"metadata": {
+				"name": "An Die Fern Beilibte",
+				"composer": "Beethoven"
+			},
+			"url": "https://smoosic.github.io/Smoosic/release/library/Beethoven_AnDieFerneGeliebte.xml"
+		},
+		{
+			"format": "mxml",
+			"metadata": {
+				"name": "An Chloe",
+				"composer": "WA Mozart",
+        "tags":["Art Songs"]
+			},
+			"url": "https://smoosic.github.io/Smoosic/release/library/Mozart_AnChloe.xml"
+		},
+		{
+			"format": "mxml",
+			"metadata": {
+				"name": "The Entertainer",
+				"composer": "Scott Joplin"
+			},
+			"url": "https://smoosic.github.io/Smoosic/release/library/ScottJoplin_The_Entertainer.xml"
+		},
+		{
+			"format": "mxml",
+			"metadata": {
+				"name": "Dichterliebe",
+				"composer": "Robert Schumann"
+			},
+			"url": "https://smoosic.github.io/Smoosic/release/library/Dichterliebe01.xml"
+		}
+	]
+}

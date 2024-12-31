@@ -1,0 +1,75 @@
+{
+	"format": "library",
+	"metadata": {
+		"name": "Smoosic Samples and Demos",
+		"type": "collection",
+		"tags": [
+			"smoosic",
+			"arrangements",
+			"testing"
+		]
+	},
+	"children": [
+		{
+			"format": "smoosic",
+			"metadata": {
+				"name": "Bach Invention #1",
+				"composer": "JS Bach",
+				"tags": [
+					"keyboard",
+					"bach"
+				]
+			},
+			"url": "https://smoosic.github.io/Smoosic/release/library/BachInvention.json"
+		}, {
+			"format": "smoosic",
+			"metadata": {
+				"name": "Bach Well-Tempered Clavier",
+				"composer": "JS Bach",
+				"tags": [
+					"keyboard",
+					"bach"
+				]
+			},
+			"url": "https://smoosic.github.io/Smoosic/release/library/BachWTC-3.json"
+		}, {
+			"format": "smoosic",
+			"metadata": {
+				"name": "Gnossienne No. 3",
+				"composer": "Eric Satie",
+				"tags": [
+					"Art Songs"
+				]
+			},
+			"url": "https://smoosic.github.io/Smoosic/release/library/Gnossienne3-3.json"
+		}, {
+			"format": "smoosic",
+			"metadata": {
+				"name": "Bach Cantata BMV 68 for Trumpet and Piano",
+				"composer": "JS Bach",
+				"tags": [
+					"Trumpet organ"
+				]
+			},
+			"url": "https://smoosic.github.io/Smoosic/release/library/BachCantataBMV68.json"
+		},  {
+			"format": "smoosic",
+			"metadata": {
+				"name": "Postillion-Lied",
+				"composer": "Franz Grothe",
+				"tags": [
+					"Art Songs"
+				]
+			},
+			"url": "https://smoosic.github.io/Smoosic/release/library/Postillionlied.json"
+		},
+		{
+			"format": "smoosic",
+			"metadata": {
+				"name": "Gesu Bambino",
+				"composer": "PIetro Yon"
+			},
+			"url": "https://smoosic.github.io/Smoosic/release/library/Gesu Bambino.json"
+		}
+	]
+}

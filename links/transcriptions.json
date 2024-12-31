@@ -1,0 +1,32 @@
+{
+	"format": "library",
+	"metadata": {
+		"name": "Jazz Transcription Library",
+		"type": "collection",
+		"tags": [
+			"jazz",
+			"transcription",
+			"improvisation"
+		]
+	},
+	"children": [
+		{
+			"url": "https://smoosic.github.io/Smoosic/release/library/Yama2.json",
+			"format": "smoosic",
+			"metadata": {
+				"name": "Yama",
+				"composer": "Lee Morgan",
+				"artist": "Lee Morgan"
+			}
+		},
+		{
+			"format": "library",
+			"metadata": {
+				"name": "Charlie Parker Transcriptions",
+				"composer": "Charlie Parker",
+				"artist": "Charlie Parker"
+			},
+			"url": "https://smoosic.github.io/Smoosic/release/library/links/cptranscriptions.json"
+		}		
+	]
+}
