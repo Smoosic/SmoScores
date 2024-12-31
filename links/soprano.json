@@ -16,7 +16,7 @@
 				"name": "There is a Balm in Gilead",
 				"composer": "Trad, transcribed from performance"
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/soprano/ThereIsABalm.json"
+			"url": "https://smoosic.github.io/SmoScores/soprano/ThereIsABalm.json"
 		},
 		{
 			"format": "smoosic",
@@ -27,7 +27,7 @@
 					"Art Songs"
 				]
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/soprano/Solovey.json"
+			"url": "https://smoosic.github.io/SmoScores/soprano/Solovey.json"
 		}, {
 			"format": "smoosic",
 			"metadata": {
@@ -37,7 +37,7 @@
 					"Art Songs"
 				]
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/soprano/Postillionlied.json"
+			"url": "https://smoosic.github.io/SmoScores/soprano/Postillionlied.json"
 		},
 		{
 			"format": "smoosic",
@@ -45,7 +45,7 @@
 				"name": "Gesu Bambino",
 				"composer": "Pietro Yon"
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/soprano/Gesu Bambino.json"
+			"url": "https://smoosic.github.io/SmoScores/soprano/Gesu Bambino.json"
 		}
 	]
 }

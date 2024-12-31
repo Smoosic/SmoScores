@@ -12,7 +12,7 @@
 	"format": "library",
 	"children": [
 		{
-			"url": "https://smoosic.github.io/Smoosic/release/library/messiah/Messiah-I-1.json",
+			"url": "https://smoosic.github.io/SmoScores/messiah/Messiah-I-1.json",
 			"format": "smoosic",
 			"metadata": {
 				"name": "Sinfonia",
@@ -21,7 +21,7 @@
 			}
 		},
 		{
-			"url": "https://smoosic.github.io/Smoosic/release/library/messiah/Messiah-I-2.json",
+			"url": "https://smoosic.github.io/SmoScores/messiah/Messiah-I-2.json",
 			"format": "smoosic",
 			"metadata": {
 				"name": "Recitativo: Comfort ye, my people",

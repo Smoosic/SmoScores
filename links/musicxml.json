@@ -15,7 +15,7 @@
 				"name": "Gnossienne No. 3",
 				"composer": "Eric Satie"
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/xml/Gnossienne_No._3.mxl"
+			"url": "https://smoosic.github.io/SmoScores/xml/Gnossienne_No._3.mxl"
 		},
 		{
 			"format": "mxml",
@@ -23,7 +23,7 @@
 				"name": "Well-Tempered Clavier",
 				"composer": "JS Bach"
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/xml/M_Book_1_Part_1_The_Open_Well_Tempered_Clavier.mxl"
+			"url": "https://smoosic.github.io/SmoScores/xml/M_Book_1_Part_1_The_Open_Well_Tempered_Clavier.mxl"
 		},
 		{
 			"format": "mxml",
@@ -31,7 +31,7 @@
 				"name": "An Die Fern Beilibte",
 				"composer": "Beethoven"
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/Beethoven_AnDieFerneGeliebte.xml"
+			"url": "https://smoosic.github.io/SmoScores/Beethoven_AnDieFerneGeliebte.xml"
 		},
 		{
 			"format": "mxml",
@@ -40,7 +40,7 @@
 				"composer": "WA Mozart",
         "tags":["Art Songs"]
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/Mozart_AnChloe.xml"
+			"url": "https://smoosic.github.io/SmoScores/Mozart_AnChloe.xml"
 		},
 		{
 			"format": "mxml",
@@ -48,7 +48,7 @@
 				"name": "The Entertainer",
 				"composer": "Scott Joplin"
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/ScottJoplin_The_Entertainer.xml"
+			"url": "https://smoosic.github.io/SmoScores/ScottJoplin_The_Entertainer.xml"
 		},
 		{
 			"format": "mxml",
@@ -56,7 +56,7 @@
 				"name": "Dichterliebe",
 				"composer": "Robert Schumann"
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/Dichterliebe01.xml"
+			"url": "https://smoosic.github.io/SmoScores/Dichterliebe01.xml"
 		}
 	]
 }

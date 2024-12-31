@@ -19,7 +19,7 @@
 					"Trumpet organ"
 				]
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/trumpet/BachCantataBMV68.json"
+			"url": "https://smoosic.github.io/SmoScores/trumpet/BachCantataBMV68.json"
 		}	,
 		{
 			"format": "smoosic",
@@ -30,7 +30,7 @@
 					"Trumpet Duet"
 				]
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/trumpet/Fireworks - trumpets.json"
+			"url": "https://smoosic.github.io/SmoScores/trumpet/Fireworks - trumpets.json"
 		},
 		{
 			"format": "smoosic",
@@ -38,35 +38,35 @@
 				"name": "Hymn to Freedom",
 				"composer": "Oscar Peterson"
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/trumpet/HymnFreedom.json"
+			"url": "https://smoosic.github.io/SmoScores/trumpet/HymnFreedom.json"
 		}, {
 			"format": "smoosic",
 			"metadata": {
 				"name": "Duet in Mambo Style",
 				"composer": "Newman"
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/trumpet/Duet-mambo.json"
+			"url": "https://smoosic.github.io/SmoScores/trumpet/Duet-mambo.json"
 		}, {
 			"format": "smoosic",
 			"metadata": {
 				"name": "Duet in a Classical Style",
 				"composer": "Newman"
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/trumpet/duet-neoclassical.json"
+			"url": "https://smoosic.github.io/SmoScores/trumpet/duet-neoclassical.json"
 		}, {
 			"format": "smoosic",
 			"metadata": {
 				"name": "Sonata 3rd mvmt",
 				"composer": "Telemann"
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/trumpet/TelemannSonata3rd.json"
+			"url": "https://smoosic.github.io/SmoScores/trumpet/TelemannSonata3rd.json"
 		},  {
 			"format": "smoosic",
 			"metadata": {
 				"name": "World Peace Prayer (Death to Life)",
 				"composer": "Mary Haugen"
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/hymns/WorldPeacePrayer.json"
+			"url": "https://smoosic.github.io/SmoScores/hymns/WorldPeacePrayer.json"
 		},
 		{
 			"format": "smoosic",
@@ -74,7 +74,7 @@
 				"name": "There is a Balm in Gilead",
 				"composer": "Traditional"
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/hymns/balm.json"
+			"url": "https://smoosic.github.io/SmoScores/hymns/balm.json"
 		}, {
 			"format": "smoosic",
 			"metadata": {
@@ -84,7 +84,7 @@
 					"Hymn Trumpets"
 				]
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/hymns/Hyfrydol.json"
+			"url": "https://smoosic.github.io/SmoScores/hymns/Hyfrydol.json"
 		}
 	]
 }

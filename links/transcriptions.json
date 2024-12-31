@@ -11,7 +11,7 @@
 	},
 	"children": [
 		{
-			"url": "https://smoosic.github.io/Smoosic/release/library/Yama2.json",
+			"url": "https://smoosic.github.io/SmoScores/Yama2.json",
 			"format": "smoosic",
 			"metadata": {
 				"name": "Yama",
@@ -26,7 +26,7 @@
 				"composer": "Charlie Parker",
 				"artist": "Charlie Parker"
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/links/cptranscriptions.json"
+			"url": "https://smoosic.github.io/SmoScores/links/cptranscriptions.json"
 		}		
 	]
 }

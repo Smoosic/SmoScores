@@ -20,7 +20,7 @@
 					"bach"
 				]
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/BachInvention.json"
+			"url": "https://smoosic.github.io/SmoScores/BachInvention.json"
 		}, {
 			"format": "smoosic",
 			"metadata": {
@@ -31,7 +31,7 @@
 					"bach"
 				]
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/BachWTC-3.json"
+			"url": "https://smoosic.github.io/SmoScores/BachWTC-3.json"
 		}, {
 			"format": "smoosic",
 			"metadata": {
@@ -41,7 +41,7 @@
 					"Art Songs"
 				]
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/Gnossienne3-3.json"
+			"url": "https://smoosic.github.io/SmoScores/Gnossienne3-3.json"
 		}, {
 			"format": "smoosic",
 			"metadata": {
@@ -51,7 +51,7 @@
 					"Trumpet organ"
 				]
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/BachCantataBMV68.json"
+			"url": "https://smoosic.github.io/SmoScores/BachCantataBMV68.json"
 		},  {
 			"format": "smoosic",
 			"metadata": {
@@ -61,7 +61,7 @@
 					"Art Songs"
 				]
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/Postillionlied.json"
+			"url": "https://smoosic.github.io/SmoScores/Postillionlied.json"
 		},
 		{
 			"format": "smoosic",
@@ -69,7 +69,7 @@
 				"name": "Gesu Bambino",
 				"composer": "PIetro Yon"
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/Gesu Bambino.json"
+			"url": "https://smoosic.github.io/SmoScores/Gesu Bambino.json"
 		}
 	]
 }

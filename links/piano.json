@@ -20,7 +20,7 @@
 					"bach"
 				]
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/piano/BachInvention.json"
+			"url": "https://smoosic.github.io/SmoScores/piano/BachInvention.json"
 		}, {
 			"format": "smoosic",
 			"metadata": {
@@ -31,7 +31,7 @@
 					"bach"
 				]
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/piano/BachWTC-3.json"
+			"url": "https://smoosic.github.io/SmoScores/piano/BachWTC-3.json"
 		}, {
 			"format": "smoosic",
 			"metadata": {
@@ -43,7 +43,7 @@
           "stride"
 				]
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/piano/Joplin-Entertainer.json"
+			"url": "https://smoosic.github.io/SmoScores/piano/Joplin-Entertainer.json"
 		}, {
 			"format": "smoosic",
 			"metadata": {
@@ -53,7 +53,7 @@
 					"Art Songs"
 				]
 			},
-			"url": "https://smoosic.github.io/Smoosic/release/library/piano/Gnossienne3-3.json"
+			"url": "https://smoosic.github.io/SmoScores/piano/Gnossienne3-3.json"
 		}
   ]
 }
