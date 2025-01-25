@@ -53,6 +53,13 @@
 				"composer": "Newman"
 			},
 			"url": "https://smoosic.github.io/SmoScores/trumpet/duet-neoclassical.json"
+		},  {
+			"format": "smoosic",
+			"metadata": {
+				"name": "Duet in a Pre-Baroque Style",
+				"composer": "Newman"
+			},
+			"url": "https://smoosic.github.io/SmoScores/trumpet/duet-prebaroque.json"
 		}, {
 			"format": "smoosic",
 			"metadata": {
