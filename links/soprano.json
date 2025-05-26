@@ -13,9 +13,23 @@
     {
 			"format": "smoosic",
 			"metadata": {
+				"name": "Come Sunday",
+				"composer": "Duke Ellington",
+        "tags": [
+					"Religiouss"
+				]
+			},
+			"url": "https://smoosic.github.io/SmoScores/soprano/ComeSunday.json"
+		},
+    {
+			"format": "smoosic",
+			"metadata": {
 				"name": "Laudamus Te",
 				"composer": "Vivaldi"
 			},
+      "tags": [
+					"Religiouss"
+			],
 			"url": "https://smoosic.github.io/SmoScores/soprano/LaudamusTrumpetSoprano.json"
 		}, {
 			"format": "smoosic",
