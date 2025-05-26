@@ -13,6 +13,13 @@
     {
 			"format": "smoosic",
 			"metadata": {
+				"name": "Laudamus Te",
+				"composer": "Vivaldi"
+			},
+			"url": "https://smoosic.github.io/SmoScores/soprano/LaudamusTrumpetSoprano.json"
+		}, {
+			"format": "smoosic",
+			"metadata": {
 				"name": "There is a Balm in Gilead",
 				"composer": "Trad, transcribed from performance"
 			},

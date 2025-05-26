@@ -16,6 +16,13 @@
 				"composer": "Traditional"
 			},
 			"url": "https://smoosic.github.io/SmoScores/hymns/Hyfrydol.json"
+		},    {
+			"format": "smoosic",
+			"metadata": {
+				"name": "Laudamus Te, Soprano and Trumpet",
+				"composer": "Vivaldi"
+			},
+			"url": "https://smoosic.github.io/SmoScores/soprano/LaudamusTrumpetSoprano.json"
 		},
 		{
 			"format": "smoosic",
